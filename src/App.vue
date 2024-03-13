@@ -87,8 +87,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  background-color: #f0f0f0; /* Add your preferred background color */
-  padding: 20px; /* Add padding for better visibility */
+  background-color: #f0f0f0; 
+  padding: 20px; 
 }
 
 h1 {
